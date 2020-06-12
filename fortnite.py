@@ -1,4 +1,4 @@
-#basic lobby bot made by Datalodon and Kai
+#basic lobby bot made by Dataloden and Kai
 
 import fortnitepy
 import json
